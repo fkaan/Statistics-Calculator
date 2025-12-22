@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Data Upload**: Supports CSV, Excel (XLSX), and JSON formats  
 - **Data Summary**: Automatic variable type detection and descriptive statistics  
@@ -33,7 +33,7 @@
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 🧪 Usage
+##  Usage
 
 ### Upload Your Data
 
@@ -121,7 +121,7 @@
 
 ---
 
-## ⚙️ Technical Stack
+## Technical Stack
 
 - **Backend**: Django (Python)
 - **Frontend**: Bootstrap 4, jQuery
@@ -132,7 +132,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 stat-analyzer/
