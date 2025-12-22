@@ -157,7 +157,7 @@ stat-analyzer/
 
 ---
 
-## 🔐 Configuration
+## Configuration
 
 Create a `.env` file in your project root with the following variables (if needed):
 
@@ -169,7 +169,7 @@ OPENAI_API_KEY=your-api-key-if-using-ai  # Optional
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -190,11 +190,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 
 
